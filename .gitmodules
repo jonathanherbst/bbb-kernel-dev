@@ -1,0 +1,6 @@
+[submodule "meta-ti"]
+	path = meta-ti
+	url = git://git.yoctoproject.org/meta-ti
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
