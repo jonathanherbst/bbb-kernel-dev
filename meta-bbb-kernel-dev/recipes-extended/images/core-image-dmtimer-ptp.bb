@@ -5,6 +5,7 @@ CORE_IMAGE_EXTRA_INSTALL += "\
     linuxptp \
     pps-tools \
     chrony \
+    chronyc \
     i2c-tools \
     python-smbus \
 "
