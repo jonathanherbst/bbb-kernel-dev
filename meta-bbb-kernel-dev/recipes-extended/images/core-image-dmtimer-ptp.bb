@@ -7,5 +7,7 @@ CORE_IMAGE_EXTRA_INSTALL += "\
     chrony \
     chronyc \
     i2c-tools \
-    python-smbus \
+    nodejs \
+    gdb \
+    lxc \
 "
